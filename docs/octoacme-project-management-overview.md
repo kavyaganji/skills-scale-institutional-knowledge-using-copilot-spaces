@@ -19,6 +19,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- UX Designer: designs interfaces, conducts user research, ensures usability.
+- DevOps Engineer: manages CI/CD pipelines, infrastructure, and deployments.
+- Business Analyst: translates business requirements into actionable work items.
+- Customer Support Lead: surfaces user feedback and manages support workflows.
+
+See [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) for full role definitions, responsibilities, and collaboration guidance.
 
 ## Key Artifacts
 - Project Charter / One-pager
